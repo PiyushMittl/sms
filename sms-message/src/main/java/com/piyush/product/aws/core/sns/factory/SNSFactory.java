@@ -234,7 +234,7 @@ public class SNSFactory {
 	 * @return the credentials
 	 */
 	public static BasicAWSCredentials getCredentials() {
-		return new BasicAWSCredentials("AKIAJNG77LDQKKNBXV3Q", "cIncTt4hfKKTYmp2qmHhgSvS5ndJMAQ3SJB2Eio+");
+		return new BasicAWSCredentials("xxx", "xxx");
 	}
 
 }
