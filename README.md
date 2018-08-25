@@ -32,6 +32,7 @@ SNSOperations.sendMessage(m);
 
 
 #### Sample code snippet
+------------------------
 ``` java
 public Object customHandleRequest(Object inputStream, Context context) throws IOException {
 		
